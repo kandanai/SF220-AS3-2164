@@ -1,0 +1,29 @@
+header{
+  background: green;
+  text-align: center;
+  color: aqua;
+  font-family: Arial;
+  font-size: 30px;
+  
+  
+
+}
+body{
+  background:rgb(215, 255, 209);
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.cat{
+  text-align: center;
+}
+
+
+
+footer{
+  background: green;
+  text-align: center;
+  color: aqua;
+  font-family: Arial;
+
+}
